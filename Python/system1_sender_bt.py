@@ -18,7 +18,7 @@ import pygame
 ESP32_MAC       = "84:1F:E8:69:84:32"   # ← Your ESP32 BT MAC address
 RFCOMM_PORT_ESP = 1                      # RFCOMM channel on ESP32
 
-SYSTEM2_MAC     = "00:20:C8:B8:48:E8:00:00"   # ← System 2 PC Bluetooth MAC
+SYSTEM2_MAC     = "00:20:C8:B8:48:E8"   # ← System 2 PC Bluetooth MAC
 RFCOMM_PORT_S2  = 4                      # RFCOMM channel on System 2 PC
                                          # (System 2 listens on channel 4)
 
